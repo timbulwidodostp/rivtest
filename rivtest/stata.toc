@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p rivtest Tests and confidence intervals after estimation of instrumental-variables models (ivregress, ivreg2, ivprobit, and ivtobit) that are robust to weak instruments Use rivtest With STATA 18
