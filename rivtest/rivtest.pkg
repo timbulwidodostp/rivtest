@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'rivtest': Tests and confidence intervals after estimation of instrumental-variables models (ivregress, ivreg2, ivprobit, and ivtobit) that are robust to weak instruments Use rivtest With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f rivtest.ado
+f rivtest.sthlp
