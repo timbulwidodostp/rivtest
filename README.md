@@ -1,6 +1,8 @@
 # rivtest
 Tests and confidence intervals after estimation of instrumental-variables models (ivregress, ivreg2, ivprobit, and ivtobit) that are robust to weak instruments Use rivtest With STATA 18
 
+https://www.youtube.com/watch?v=SOcJZI8_76o
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
